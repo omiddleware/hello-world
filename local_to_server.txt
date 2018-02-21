@@ -1,0 +1,12 @@
+Hello
+This
+file
+is 
+going
+from
+local
+machine
+to
+git
+hub
+server
